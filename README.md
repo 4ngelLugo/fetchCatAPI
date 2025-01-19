@@ -1,7 +1,7 @@
 # Prueba técnica para Juniors y Trainees de React.
 
-[!NOTE]
-Basado en el curso de react de midudev
+>[!NOTE]
+>Basado en el curso de react de midudev
 
 APIs:
 
